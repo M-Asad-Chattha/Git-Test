@@ -1,2 +1,3 @@
 This is chapter 2.
 Feature No.1 completed.
+Feature No.2 completed.
